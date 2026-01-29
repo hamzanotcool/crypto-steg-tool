@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Secrets / keys
+*.pem
+*.key
+*.rsa
+
+# OS
+.DS_Store
