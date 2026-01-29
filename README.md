@@ -33,12 +33,19 @@ Platform: Linux CLI
 
 crypto-steg-tool/
 ├── src/
+
 │   ├── main.py            # Main CLI entry point
+
 │   ├── crypto_utils.py    # AES-GCM implementation
+
 │   ├── rsa_utils.py       # RSA key management
+
 │   └── steg_lsb.py        # LSB steganography
+
 ├── samples/               # Sample images for steganography demo
+
 ├── requirements.txt
+
 └── README.md
 
 ---
