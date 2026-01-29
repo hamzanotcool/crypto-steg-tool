@@ -15,3 +15,11 @@ venv/
 
 # OS
 .DS_Store
+# Test / generated files
+secret.txt
+secret.enc
+out.txt
+aes.key
+aes.key.rsa
+private.pem
+public.pem
